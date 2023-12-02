@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Myself Vijendra Chouhan</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science;Full+Stack+Web+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science,student;Full+Stack+Web+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@
   <a href="mailto:vs230267@gmail.com">
     <img align="left" alt="Vijendra Chouhan| Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a href="https://www.instagram.com/Vijendra_Chouhan_">
+  <a href="https://www.instagram.com/_vijendra._.chouhan_">
     <img align="left" alt="Vijendra Chouhan | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
    <a href="https://github.com/Vijendra2244">
