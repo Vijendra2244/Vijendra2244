@@ -73,7 +73,7 @@
    <a href="https://github.com/Vijendra2244">
     <img align="left" alt="Vijendra Chouhan| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
-  <a href="https:/https://vijendra2244.github.io/portfolio.github.io//">
+  <a href="https:/https://https://vijendra2244.github.io/portfolio.github.io/">
     <img align="left" alt="Om Patel | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
   </a>
  
