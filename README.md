@@ -17,11 +17,14 @@
 - 👯 I’m looking to collaborate with Fullstack Web projects.
 - 💡 Contributing to Open Source Projects is always been a goal to me.
 - ⚡ Fun fact: I love Sports, especially Cricket.
+- 📋   <a href="https://vijendra2244.github.io/portfolio.github.io/">
+    <img align="left" alt="Om Patel | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
+    </a>
 <br>
 
 ---
 
-<details>
+
 <summary>
   ✨ Tech stack currently using:
 </summary>
@@ -31,9 +34,8 @@
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
 <code><a href="https://www.netlify.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify"  height="30"></a></code>
-<code><a href="https://getbootstrap.com/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024"></a></code>
  <code> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="30"/> </a> </code>
-</details>
+ 
 <br>
 
 
@@ -47,10 +49,10 @@
 </summary>
 <br>
 <p align="center">
-  <a href="https://github.com/Vijendra2244">
+  <a href="https://github.com/Vijendra2244" >
     <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=Vijendra2244&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
-  <a href="https://github.com/Vijendra2244">
+  <a href="https://github.com/Vijendra2244"> 
     <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijendra2244&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
@@ -64,14 +66,8 @@
   <a href="https://www.linkedin.com/in/vijendra-chouhan-989687292">
    <img align="left" alt=" Vijendra Chouhan | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="mailto:vs230267@gmail.com">
-    <img align="left" alt="Vijendra Chouhan| Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
   <a href="https://www.instagram.com/_vijendra._.chouhan_">
     <img align="left" alt="Vijendra Chouhan | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
-   <a href="https://github.com/Vijendra2244">
-    <img align="left" alt="Vijendra Chouhan| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <a href="https://vijendra2244.github.io/portfolio.github.io/">
     <img align="left" alt="Om Patel | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
