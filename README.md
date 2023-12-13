@@ -17,13 +17,10 @@
 - 👯 I’m looking to collaborate with Fullstack Web projects.
 - 💡 Contributing to Open Source Projects is always been a goal to me.
 - ⚡ Fun fact: I love Sports, especially Cricket.
-- 📋   <a href="https://vijendra2244.github.io/portfolio.github.io/">
-    <img align="left" alt="Om Patel | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
-    </a>
 <br>
 
 ---
-
+ 
 
 <summary>
   ✨ Tech stack currently using:
