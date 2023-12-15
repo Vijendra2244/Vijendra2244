@@ -60,7 +60,7 @@
 
 <h4> Connect with me🤝: <h4>
   </hr>
-  [my_linkdin]("https://www.linkedin.com/in/vijendra-chouhan-989687292"){:target="_blank"}
+  <a>[my_linkdin]("https://www.linkedin.com/in/vijendra-chouhan-989687292"){:target="_blank"}</a>
   <a href="https://www.linkedin.com/in/vijendra-chouhan-989687292" target="_blank">
    <img align="left" alt=" Vijendra Chouhan | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
