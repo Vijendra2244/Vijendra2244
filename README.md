@@ -60,9 +60,9 @@
 
 <h4> Connect with me🤝: <h4>
   </hr>
-  <code> <a href="https://www.linkedin.com/in/vijendra-chouhan-989687292" target="_blank" onclick={window.open("https://www.linkedin.com/in/vijendra-chouhan-989687292" target=")}>
+  <a href="https://www.linkedin.com/in/vijendra-chouhan-989687292" target="_blank" onclick={window.open("https://www.linkedin.com/in/vijendra-chouhan-989687292" target=")}>
    <img align="left" alt=" Vijendra Chouhan | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a></code>
+  </a>
   <a href="https://www.instagram.com/_vijendra._.chouhan_" target="_blank">
     <img align="left" alt="Vijendra Chouhan | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
