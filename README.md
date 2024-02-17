@@ -33,6 +33,9 @@
 <code><a href="https://www.netlify.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify"  height="30"></a></code>
  <code> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="30"/> </a> </code>
     <code> <a  target="_blank"> <img src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" alt="tailwind" height="30"/> </a> </code>
+    <code> <a  target="_blank"> <img src="https://media.licdn.com/dms/image/D4E12AQEBg943ptCYpg/article-cover_image-shrink_720_1280/0/1686391647921?e=2147483647&v=beta&t=sTfwUvcIfW7Fuby7hMluDfuRJK3HfYMMWc2SyZR7-GA" alt="tailwind" height="30"/> </a> </code>
+     <code> <a  target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="tailwind" height="30"/> </a> </code>
+   
  </details>
 <br>
 
