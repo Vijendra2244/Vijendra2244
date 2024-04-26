@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    Myself <b>Vijendra Chouhan</b>, a final year <b>Computer Science</b> graduate from <b>Choithram College of professional studies,</b>, Indore.
+    Myself <b>Vijendra Chouhan</b> <b>Computer Science</b> graduate from <b>Choithram College of professional studies,</b>, Indore.
     An aspiring &nbsp; <b>Full Stack Web Developer</b>&nbsp; 
   <br>
   <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
