@@ -67,9 +67,9 @@
   <a href="https://www.linkedin.com/in/vijendra-chouhan-989687292" target="_blank">
    <img align="left" alt=" Vijendra Chouhan | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="https://www.instagram.com/_vijendra._.chouhan_" target="_blank">
+<!--   <a href="https://www.instagram.com/_vijendra._.chouhan_" target="_blank">
     <img align="left" alt="Vijendra Chouhan | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
+  </a> -->
   <a href="https://vijendra2244.github.io/portfolio.github.io/" target="_blank">
     <img align="left"  | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
   </a>
